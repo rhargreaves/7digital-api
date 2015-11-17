@@ -186,7 +186,7 @@
 					{
 						"apiCall": "details",
 						"methodName": "getDetails",
-						"oauth": "2-legged",
+						"oauth": "3-legged",
 						"method": "GET"
 					},
 					{
